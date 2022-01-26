@@ -3,6 +3,6 @@ A conky widget that shows now playing information or a clock when music is not p
 currently supports spotify, spotifyd, Lollypop and VLC
 
 ### Requirements
-*conky
-*ffmpeg
-*playerctl
+* conky
+* ffmpeg
+* playerctl
